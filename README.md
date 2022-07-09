@@ -1,6 +1,9 @@
 
 
 For designing used primitive UI
-https://bespoke-kringle-105a4b.netlify.app/
-imported sweetalert2
+
+imported sweetalert2 to display beautiful alerts
 npm install sweetalert2
+
+deployment link
+https://master--lovely-arithmetic-5d2b38.netlify.app/
